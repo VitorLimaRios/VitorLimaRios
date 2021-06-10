@@ -36,12 +36,11 @@ Olá, seja bem-vindo a minha página GitHub, sou de Santa Maria, Brasil, estou m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-</p>
-
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
+
+<br />
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLimaRios&layout=compact&theme=dark&title_color=268bd2" alt="VitorLimaRios" />
