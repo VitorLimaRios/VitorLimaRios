@@ -2,9 +2,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=VitorLimaRios" alt="VitorLimaRios" /> </p>
 
-<br />
-<br />
-
 Olá, seja bem-vindo a minha página GitHub, sou de Santa Maria, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 👨🏽‍💼 e atualmente estou estudando na [Trybe](https://www.betrybe.com/) 🚀. 
 
 **Meus interesses pessoais:**
