@@ -26,9 +26,6 @@ Olá, seja bem-vindo a minha página GitHub, sou de Santa Maria, Brasil, estou m
 
 <br />
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLimaRios&layout=compact&theme=dark&title_color=268bd2" alt="VitorLimaRios" />
-</p>
 <p>&nbsp;
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=VitorLimaRios&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="VitorLimaRios" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorLimaRios&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="VitorLimaRios" />
 </p>
