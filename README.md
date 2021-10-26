@@ -1,4 +1,4 @@
-### Olá 👋, me chamo **Vitor**!
+### Hello 👋, I'm **Vitor**!
 
 <div>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=VitorLimaRios" alt="VitorLimaRios" /> </p>
@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/vitor-lima-rios/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-Olá, seja bem-vindo a minha página GitHub, sou de Santa Maria, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** e atualmente estou estudando na [Trybe](https://www.betrybe.com/). 
+Welcome to my GitHub page, I'm from Santa Maria, Brasil, and I'm studying at [Trybe](https://www.betrybe.com/) to be a Software Developer. 
 
-**Linguagens e ferramentas:**  
+**Languages and Tools:**  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
