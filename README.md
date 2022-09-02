@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/vitor-lima-rios/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-Welcome to my GitHub page, I'm from Santa Maria, Brasil, and I'm studying at [Trybe](https://www.betrybe.com/) to be a Software Developer. 
+Welcome to my GitHub page, I'm from Santa Maria, Brasil, and I'm working at [Ford](https://www.linkedin.com/company/ford-motor-company/) as a Software Analyst. 
 
 **Languages and Tools:**  
 
