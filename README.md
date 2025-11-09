@@ -1,7 +1,6 @@
 ### Hello 👋, I'm **Vitor**!
 
 <div>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=VitorLimaRios" alt="VitorLimaRios" /> </p>
   <a href = "mailto:vitorlimarios999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-lima-rios/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -25,8 +24,5 @@ Welcome to my GitHub page, I'm from Santa Maria, Brasil, and I'm working at [For
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-<br />
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorLimaRios&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="VitorLimaRios" />
-</p>
+<!-- <img src="https://komarev.com/ghpvc/?username=VitorLimaRios" alt="VitorLimaRios" /> -->
+  
